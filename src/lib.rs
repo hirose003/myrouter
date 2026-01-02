@@ -5,6 +5,4 @@ pub mod error;
 pub mod ethernet;
 pub mod icmp;
 pub mod ip;
-pub mod nat;
-pub mod patricia_trie;
 pub mod util;
